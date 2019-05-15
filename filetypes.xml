@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;_svn;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern=".gcloudignore" type="PLAIN_TEXT" />
+      <mapping ext="kv" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
