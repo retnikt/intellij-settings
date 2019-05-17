@@ -4,7 +4,7 @@
     <property name="created">2019-05-15T17:16:05</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-05-15T18:24:21</property>
+    <property name="modified">2019-05-17T16:25:21</property>
     <property name="originalScheme">_@user_Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -23,7 +23,7 @@
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
-    <option name="CARET_COLOR" value="ffffbc" />
+    <option name="CARET_COLOR" value="ffff00" />
     <option name="CARET_ROW_COLOR" value="263238" />
     <option name="CONSOLE_BACKGROUND_KEY" value="263238" />
     <option name="DELETED_LINES_COLOR" value="f07178" />
