@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'inventory'" />
-    <option name="defaultScopeName" value="Project 'inventory'" />
-    <option name="SEARCH_SCOPE" value="Project 'inventory'" />
+    <option name="customScope" value="File '.../unibot/bot.py'" />
+    <option name="defaultScopeName" value="File '.../unibot/bot.py'" />
+    <option name="SEARCH_SCOPE" value="File '.../unibot/bot.py'" />
   </component>
 </application>
