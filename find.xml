@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../unibot/bot.py'" />
-    <option name="defaultScopeName" value="File '.../unibot/bot.py'" />
-    <option name="SEARCH_SCOPE" value="File '.../unibot/bot.py'" />
+    <option name="customScope" value="File '.../unibot/command.py'" />
+    <option name="defaultScopeName" value="File '.../unibot/command.py'" />
+    <option name="SEARCH_SCOPE" value="File '.../unibot/command.py'" />
   </component>
 </application>
