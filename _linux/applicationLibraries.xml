@@ -913,6 +913,33 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
+    <library name="Pipenv (OpenChat) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/OpenChat-S8lKQFaj/lib/python3.7" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/OpenChat-S8lKQFaj/lib/python3.7/lib-dynload" />
+        <root url="file:///usr/lib/python3.7" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/OpenChat-S8lKQFaj/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.2/system/python_stubs/-2142109541" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/OpenChat-S8lKQFaj/lib/python3.7" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/OpenChat-S8lKQFaj/lib/python3.7/lib-dynload" />
+        <root url="file:///usr/lib/python3.7" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/OpenChat-S8lKQFaj/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.2/system/python_stubs/-2142109541" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="Pipenv (sequencer) interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/.local/share/virtualenvs/sequencer-Y6qasW54/lib/python3.7" />
