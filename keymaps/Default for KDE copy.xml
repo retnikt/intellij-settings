@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt t" />
     <keyboard-shortcut first-keystroke="ctrl back_slash" />
   </action>
+  <action id="Tool_External Tools_Black">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
   <action id="osmedile.intellij.stringmanip.SwitchCasePopup">
     <keyboard-shortcut first-keystroke="ctrl alt released a" />
   </action>
