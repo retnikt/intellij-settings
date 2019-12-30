@@ -1625,6 +1625,37 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
+    <library name="Python 3.8 interpreter library">
+      <CLASSES>
+        <root url="file:///usr/local/lib/python3.8" />
+        <root url="file:///usr/local/lib/python3.8/lib-dynload" />
+        <root url="file://$USER_HOME$/.local/lib/python3.8/site-packages" />
+        <root url="file:///opt/binaryninja/python" />
+        <root url="file:///opt/binaryninja/python3" />
+        <root url="file:///usr/local/lib/python3.8/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.3/system/python_stubs/-1199943125" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/lib/python3.8" />
+        <root url="file:///usr/local/lib/python3.8/lib-dynload" />
+        <root url="file://$USER_HOME$/.local/lib/python3.8/site-packages" />
+        <root url="file:///opt/binaryninja/python" />
+        <root url="file:///opt/binaryninja/python3" />
+        <root url="file:///usr/local/lib/python3.8/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.3/system/python_stubs/-1199943125" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="rack (v2.0.6, ruby-2.5.1-p57) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
